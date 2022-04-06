@@ -5,7 +5,7 @@
 </a>
 
 
-### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.yousearchnow.com/" target="_blank">@YOU. Group</a>
+### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.zeptonow.com/" target="_blank">@Zepto</a>
 
 <table width="100%">
 <tr>
