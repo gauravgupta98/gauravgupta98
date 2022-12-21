@@ -5,13 +5,16 @@
 </a>
 
 
-### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.wisetechglobal.com/" target="_blank">@WiseTech Global</a> and focussing on <i><u>Go, Python, .NET and AWS.</i></u>
+### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.wisetechglobal.com/" target="_blank">@WiseTech Global</a> and focussing on <i>`Go, Python and AWS.`</i>
 
 
 <table width="100%">
 <tr>
-   <td>
+   <td width="50%;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gauravgupta98&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000" />
+   </td>
+   <td width="50%;">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravgupta98&show_icons=true&hide_border=true&layout=compact&langs_count=4&theme=tokyonight&bg_color=00000000"/>
    </td>
 </tr>
 <table>
