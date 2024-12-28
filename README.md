@@ -5,4 +5,4 @@
 </a>
 
 
-### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.wisetechglobal.com/" target="_blank">@WiseTech Global</a> and focussing on <i>`Go, Python and AWS.`</i>
+### I'm a software engineer who is passionate about making products and learning new tech. I'm currently working at <a href="https://www.zeptonow.com/" target="_blank">@zeptonow</a> and focussing on <i>`Go, Python and AWS.`</i>
